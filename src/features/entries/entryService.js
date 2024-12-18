@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_URL = '/api/entries/'
+const API_URL = 'https://midnightblog-be-801cce91ca92.herokuapp.com/api/entries/'
 
 const createEntry = async (entryData, token) => {
     const config = {

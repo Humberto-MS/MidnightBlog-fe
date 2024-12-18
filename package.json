@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://150.136.81.63:8001",
+  "proxy": "https://midnightblog-be-801cce91ca92.herokuapp.com",
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
     "@testing-library/jest-dom": "^5.17.0",

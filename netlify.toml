@@ -1,4 +1,4 @@
 [[redirects]] 
     from = "/api/*" 
-    to = "http://150.136.81.63:8001/:splat" 
+    to = "https://midnightblog-be-801cce91ca92.herokuapp.com/:splat" 
     status = 200
